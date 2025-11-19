@@ -1,7 +1,7 @@
 # MiniGit 
 MiniGit is a simplified version-control system inspired by Git, built entirely in Java.
 It supports essential Git-like operations such as committing, branching, switching, staging, checking out previous snapshots, and comparing file differences.
-This project demonstrates your understanding of data structures, branching, snapshots, immutability, version control concepts, and CLI design — making it ideal for GitHub, resumes, and interviews.
+
 
 # Features
 Features
